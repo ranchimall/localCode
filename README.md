@@ -2,7 +2,7 @@
 Agent for local LLM code creation and testing
 
 # This is AI Blockchain Contract project
-This project is part of projectai token system of AI Blockchain Contract series of RanchiMall, hence owned by AIBC. A blockchain contract is a governance structure on the blockchain which enables human led supervision over blockchain projects, as opposed to Corporate incorporation in traditional businesses and purely automated Smartcontracts in DAOs (Distributed Autonomous Organisation). Funding for Blockchain Contract comes directly on blockchain.
+This project is part of openclaw token system of AI Blockchain Contract series of RanchiMall, hence owned by AIBC. A blockchain contract is a governance structure on the blockchain which enables human led supervision over blockchain projects, as opposed to Corporate incorporation in traditional businesses and purely automated Smartcontracts in DAOs (Distributed Autonomous Organisation). Funding for Blockchain Contract comes directly on blockchain.
 
 # Self-Correcting Coding Agent
 

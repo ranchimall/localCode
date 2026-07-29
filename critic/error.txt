@@ -1,5 +1,0 @@
-$ node -e "const {calculatePayout} = require('./sample.js'); console.log(calculatePayout(1000, [0.5, 0.3, 0.2]))"
-NaN
-
-Expected: 1000 (pool fully distributed across the three shares, which sum to 1.0)
-Got: NaN instead of a number.
